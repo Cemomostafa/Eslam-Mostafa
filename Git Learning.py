@@ -11,3 +11,5 @@ print ("test")
 
 
 print("testing merge")
+
+print ("testing merge 3-Way")
